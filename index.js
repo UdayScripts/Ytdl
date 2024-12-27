@@ -4,7 +4,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Replace with your own bot token from BotFather
-const token = '5478822294:AAG_VR_09YzpyCOsvTXxypYUMR_Q2grnCto';
+const token = '8183335872:AAHxom0APQ1ervG8uk3APVE8aSc-ERqY6Zw';
 
 // Replace with your channel's chat ID or username
 const logChannelId = '@testing_xyz';
